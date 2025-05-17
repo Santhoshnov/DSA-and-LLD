@@ -6,7 +6,7 @@ This README contains custom helper methods for string manipulation in Java, impl
 
 ## 🚀 Methods Included
 
-### 1. Custom `toCharArray` Method
+###  Custom `toCharArray` Method
 Converts a given string to a character array manually.
 
 **Code:**
@@ -20,7 +20,7 @@ public static char[] customToCharArray(String str) {
 }
 ```
 
-### 1. Custom `contains` method
+###  Custom `contains` method
 Checks if a character exists within a given character array.
 
 **Code:**
@@ -37,7 +37,7 @@ private static boolean contains(char[] arr, char target) {
 ```
 
 
-### 1. Custom `charAt` method
+###  Custom `charAt` method
 Checks if a character exists within a given character array.
 
 **Code:**
