@@ -18,6 +18,7 @@ public static char[] customToCharArray(String str) {
     }
     return arr;
 }
+```
 
 ### 1. Custom `contains` method
 Checks if a character exists within a given character array.
@@ -32,6 +33,8 @@ private static boolean contains(char[] arr, char target) {
     }
     return false;
 }
+
+```
 
 
 ### 1. Custom `charAt` method
