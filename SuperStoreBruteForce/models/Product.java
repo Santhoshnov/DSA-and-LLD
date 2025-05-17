@@ -1,7 +1,8 @@
 package models;
 
 public class Product {
-    public String name;
+    
+    public String name; 
     public int quantity;
     public double price;
 
